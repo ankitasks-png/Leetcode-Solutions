@@ -10,4 +10,5 @@
 |   12 | [Integer to Roman](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/0012-integer-to-roman)                                                             |  🟡 Medium | Greedy                 |
 |   16 | [3Sum Closest](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/0016-3sum-closest)                                                                     |  🟡 Medium | Sorting + Two Pointers |
 |   38 | [Count and Say](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/0038-count-and-say)                                                                   |  🟡 Medium | Run-Length Encoding    |
+|  835 | [Image Overlap](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/0835-image-overlap)                                                                   |  🟡 Medium | Offset Counting        |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers)                                       |   🟢 Easy  | Brute Force + Set      |
