@@ -1,4 +1,3 @@
-#LeetCode Solutions
 |    # | Problem                                                                                                                                                             | Difficulty | Approach               |
 | ---: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | ---------------------- |
 |    1 | [Two Sum](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/0001-two-sum)                                                                               |   🟢 Easy  | Hash Map               |
@@ -11,4 +10,6 @@
 |   16 | [3Sum Closest](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/0016-3sum-closest)                                                                     |  🟡 Medium | Sorting + Two Pointers |
 |   38 | [Count and Say](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/0038-count-and-say)                                                                   |  🟡 Medium | Run-Length Encoding    |
 |  835 | [Image Overlap](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/0835-image-overlap)                                                                   |  🟡 Medium | Offset Counting        |
+| 1093 | [Statistics from a Large Sample](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/1093-statistics-from-a-large-sample)                                 |  🟡 Medium | Frequency Array        |
+| 1401 | [Circle and Rectangle Overlapping](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping)                             |  🟡 Medium | Geometry               |
 | 3483 | [Unique 3-Digit Even Numbers](https://github.com/ankitasks-png/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers)                                       |   🟢 Easy  | Brute Force + Set      |
